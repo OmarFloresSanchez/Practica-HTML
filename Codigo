@@ -1,0 +1,40 @@
+<!DOCTIPE html>
+    <html lang="en">
+    <html>
+
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE-edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Comparte tus viajes</title>
+    </head>
+
+    <body>
+        <h1>Comparte tus viajes</h1>
+        <h2>Nueva York-Central Park</h2>
+        <h3>Descripcion</h3>
+        <h4></h4>
+        <p>Foto de Randy Connolly</p>
+        <p>Esta foto del Estanque del Conservatorio en Central Park en Ciudad de Nueva York fue tomada en Octubre 22, 2021 con una camara Canon EOS 30D</p>
+        <figure>
+            <img src="central-park.jpg" alt="Imagen de central park">
+            <figcaption> <i>Estanque del Conservatorio en Central Park</i></figcaption>
+       </figure>
+        
+        
+        <p>Compartir: <img src="email_16.png"><img src="rss_16.png"><img src="twitter_16.png"><img src="facebook_16.png"><img src="flickr_16.png"></p> 
+        <h3>Fotos relacionadas</h3>
+        <img src="related-square1.jpg"><img src="related-square2.jpg"><img src="related-square3.jpg">
+        <h2>Reseñas</h2>
+        ------------------------------------------------------------------------------------------------------------------------------------------------
+        <p>Por Ricardo en 15 de Septiembre, 2021</p>
+        <p>Tranquilo con el HDR amigo</p>
+        ------------------------------------------------------------------------------------------------------------------------------------------------
+        <p>Por Susana en 1 de Septiembre, 2021</p>
+        <p>Amo Central Park</p>
+        <p><a href="">Inicio</a> | <a href="">Navegacion</a> | <a href="">Buscar</a></p>
+        
+        <i>Copyright c 2021 Comparte tus Viajes</i>
+        </body>
+
+    </html>
